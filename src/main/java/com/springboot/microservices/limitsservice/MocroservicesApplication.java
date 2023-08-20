@@ -1,4 +1,4 @@
-package com.springboot.limitsservice;
+package com.springboot.microservices.limitsservice;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
